@@ -1,2 +1,2 @@
 print("SSS")
-dadadadada
+a = input("Input your name")
