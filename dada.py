@@ -1,2 +1,5 @@
 print("SSS")
 a = input("Input your name")
+print("Hello, " + a)
+print("Welcome to the program!")
+print("This is a simple Python script.")    
